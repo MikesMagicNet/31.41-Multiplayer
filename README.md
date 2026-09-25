@@ -1,9 +1,6 @@
-# 31.41 MP
+# Chapter 5 Season 4 (v31.41) Dumps
 
-If the offsets are wrong or it just plain doesnt work, you MUST have a patched (EAC BLOCKED) .exe
-
-**You can find a patched EXE on my github**
-
-# 31.41 Multiplayer Source
-
-The source is built like a base, just hosting and loading in thats it. 
+- Patched exe is on my git, credit to Mar1ki & Stern -> https://stern.scoob.me/
+- Use Reverse/wefnj.py to get the reversal offsets/sigs/vtables you need. (They do work, I used it for 31.41 GS)
+- 31.41 SDK Dumper.dll, credit to Ducki67 (thanks)
+  

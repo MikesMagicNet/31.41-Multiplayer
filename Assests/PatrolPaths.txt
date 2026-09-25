@@ -1,0 +1,69 @@
+                                                             (-27628, 86518, 11144) -> no match
+                                                             (-30730, 15852, 3464) -> no match
+                                                             (30218, 110100, 9992) -> no match
+                                                             (-66550, -75244, 3848) -> no match
+                                                             (1516, -52726, 392) -> no match
+                                                             (-44741, -77621, 5723) -> no match
+                                                             (-2592, 62336, 8864) -> no match
+                                                             (-16902, -75387, 1073) -> no match
+Athena.AI.SpawnLocation.FlexLegend.Minions.BossE             (-12791, -75221, 1495) -> BP_AIBSD_BossE
+Athena.AI.SpawnLocation.FlexLegend.Minions.BossE             (-11731, -81863, 2266) -> BP_AIBSD_BossE
+Athena.AI.SpawnLocation.FlexLegend.Minions.BossE             (-17996, -74310, 1189) -> BP_AIBSD_BossE
+Athena.AI.SpawnLocation.FlexLegend.Minions.BossE             (-16264, -75175, 1419) -> BP_AIBSD_BossE
+Athena.AI.SpawnLocation.FlexLegend.Minions.BossE             (-17505, -79890, 963) -> BP_AIBSD_BossE
+Athena.AI.SpawnLocation.FlexLegend.Minions.BossE             (-16177, -79965, 1450) -> BP_AIBSD_BossE
+Athena.AI.SpawnLocation.FlexLegend.Minions.BossE             (-15386, -82268, 2045) -> BP_AIBSD_BossE
+Athena.AI.SpawnLocation.FlexLegend.Minions.BossE             (-12597, -78757, 1343) -> BP_AIBSD_BossE
+Athena.AI.SpawnLocation.FlexLegend.Minions.BossE             (-13871, -82351, 1343) -> BP_AIBSD_BossE
+Athena.AI.SpawnLocation.FlexLegend.Minions.BossE             (-18688, -80583, 1189) -> BP_AIBSD_BossE
+                                                             (15580, 43702, 4868) -> no match
+Athena.AI.SpawnLocation.Tandem.TroutWrist                    (1128, -5160, 3180) -> BP_AIBotSpawnerData_NPC_TroutWrist
+                                                             (-94674, 59470, 7108) -> no match
+                                                             (89078, 90925, 8887) -> no match
+Athena.AI.SpawnLocation.FlexLegend.Minions.BossD             (86081, 82388, 8589) -> BP_AIBSD_BossD
+Athena.AI.SpawnLocation.FlexLegend.Minions.BossD             (76771, 82394, 6962) -> BP_AIBSD_BossD
+Athena.AI.SpawnLocation.FlexLegend.Minions.BossD             (85416, 86501, 8256) -> BP_AIBSD_BossD
+Athena.AI.SpawnLocation.FlexLegend.Minions.BossD             (87157, 94715, 9733) -> BP_AIBSD_BossD
+Athena.AI.SpawnLocation.FlexLegend.Minions.BossD             (81961, 93138, 9995) -> BP_AIBSD_BossD
+Athena.AI.SpawnLocation.FlexLegend.Minions.BossD             (76820, 89402, 7815) -> BP_AIBSD_BossD
+Athena.AI.SpawnLocation.FlexLegend.Minions.BossD             (79095, 82568, 7534) -> BP_AIBSD_BossD
+Athena.AI.SpawnLocation.FlexLegend.Minions.BossD             (82472, 87118, 8698) -> BP_AIBSD_BossD
+Athena.AI.SpawnLocation.FlexLegend.Minions.BossD             (87985, 86471, 9452) -> BP_AIBSD_BossD
+Athena.AI.SpawnLocation.FlexLegend.Minions.BossD             (84474, 80465, 8797) -> BP_AIBSD_BossD
+Athena.AI.SpawnLocation.FlexLegend.Minions.BossD             (74379, 81959, 7721) -> BP_AIBSD_BossD
+Athena.AI.SpawnLocation.FlexLegend.Minions.BossM             (63976, -17308, 3700) -> BP_AIBSD_BossM
+Athena.AI.SpawnLocation.FlexLegend.Minions.BossM             (68631, -18852, 3615) -> BP_AIBSD_BossM
+Athena.AI.SpawnLocation.FlexLegend.Minions.BossM             (75528, -9223, 4078) -> BP_AIBSD_BossM
+Athena.AI.SpawnLocation.FlexLegend.Minions.BossM             (79928, -19352, 3547) -> BP_AIBSD_BossM
+Athena.AI.SpawnLocation.FlexLegend.Minions.BossM             (76327, -8836, 4078) -> BP_AIBSD_BossM
+Athena.AI.SpawnLocation.FlexLegend.Minions.BossM             (81366, -21799, 4078) -> BP_AIBSD_BossM
+Athena.AI.SpawnLocation.FlexLegend.Minions.BossM             (72769, -12469, 4078) -> BP_AIBSD_BossM
+Athena.AI.SpawnLocation.FlexLegend.Minions.BossM             (69114, -13867, 3726) -> BP_AIBSD_BossM
+Athena.AI.SpawnLocation.FlexLegend.Minions.BossM             (74756, -16897, 3652) -> BP_AIBSD_BossM
+                                                             (74601, -14876, 3825) -> no match
+Athena.AI.SpawnLocation.Tandem.BrightDisk                    (-73176, -64736, 4904) -> BP_AIBotSpawnerData_NPC_BrightDisk
+Athena.AI.SpawnLocation.Tandem.PillowMill                    (22504, 33836, 5696) -> BP_AIBotSpawnerData_NPC_PillowMill
+Athena.AI.SpawnLocation.Tandem.PeelyBone                     (-2164, -14364, 3624) -> BP_AIBotSpawnerData_NPC_PeelyBone
+Athena.AI.SpawnLocation.Tandem.PrivateJet                    (3628, -15060, 3896) -> BP_AIBotSpawnerData_NPC_PrivateJet
+Athena.AI.SpawnLocation.Tandem.TriageTrooper                 (7384, 81776, 5320) -> BP_AIBotSpawnerData_NPC_TriageTrooper
+Athena.AI.SpawnLocation.Tandem.MoosePorch                    (80968, 36696, 4928) -> BP_AIBotSpawnerData_NPC_MoosePorch
+Athena.AI.SpawnLocation.Tandem.DarkVogue                     (94676, -56660, 4116) -> BP_AIBotSpawnerData_NPC_DarkVogue
+Athena.AI.SpawnLocation.Tandem.LionSoldier                   (116811, -6747, 1542) -> BP_AIBotSpawnerData_NPC_LionSoldier
+Athena.AI.SpawnLocation.Tandem.SpeedyPeas                    (-78288, -7544, 4864) -> BP_AIBotSpawnerData_NPC_SpeedyPeas
+Athena.AI.SpawnLocation.Tandem.CeremonialGuardFencer         (-61692, -66772, 4060) -> BP_AIBotSpawnerData_NPC_CeremonialGuardFencer
+Athena.AI.SpawnLocation.Tandem.QuickBurst                    (-50220, -99380, 3736) -> BP_AIBotSpawnerData_NPC_QuickBurst
+Athena.AI.SpawnLocation.Tandem.BikeMold                      (36636, -39000, 5088) -> BP_AIBotSpawnerData_NPC_BikeMold
+Athena.AI.SpawnLocation.Tandem.MadCommander                  (-117892, 45256, 1936) -> BP_AIBotSpawnerData_NPC_MadCommander
+Athena.AI.SpawnLocation.Tandem.SnapFreeze                    (-46852, 10424, 4940) -> BP_AIBotSpawnerData_NPC_SnapFreeze
+Athena.AI.SpawnLocation.Tandem.ShrimpStroll                  (16656, 95816, 11012) -> BP_AIBotSpawnerData_NPC_ShrimpStroll
+Athena.AI.SpawnLocation.Tandem.HerbHutch                     (-20016, -3392, 3136) -> BP_AIBotSpawnerData_NPC_HerbHutch
+Athena.AI.SpawnLocation.Tandem.ShiverFlame                   (-120976, -14796, 1004) -> BP_AIBotSpawnerData_NPC_ShiverFlame
+Athena.AI.SpawnLocation.Tandem.ElbowChat                     (48640, -96812, 5118) -> BP_AIBotSpawnerData_NPC_ElbowChat
+Athena.AI.SpawnLocation.Tandem.SeleneCobra                   (45968, -58048, 3836) -> BP_AIBotSpawnerData_NPC_SeleneCobra
+Athena.AI.SpawnLocation.Tandem.KoboLobo                      (21544, -54736, 1132) -> BP_AIBotSpawnerData_NPC_KoboLobo
+Athena.AI.SpawnLocation.Tandem.BucketKick                    (-54216, 83612, 23420) -> BP_AIBotSpawnerData_NPC_BucketKick
+Athena.AI.SpawnLocation.LabradorMandatory                    (80596, -45576, 3440) -> no match
+Athena.AI.SpawnLocation.Tandem.QuickBurst                    (-50220, -99380, 3736) -> BP_AIBotSpawnerData_NPC_QuickBurst
+                                                             (-66550, -75244, 3848) -> no match
+Athena.AI.SpawnLocation.Tandem.QuickBurst                    (-50220, -99380, 3736) -> BP_AIBotSpawnerData_NPC_QuickBurst
+Athena.AI.SpawnLocation.Tandem.KoboLobo                      (21544, -54736, 1132) -> BP_AIBotSpawnerData_NPC_KoboLobo
